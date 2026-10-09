@@ -176,20 +176,4 @@ Results depend on the datasets, references, model settings, retrieved evidence, 
 - Keep API keys, generated results, large files, local indexes, and model files out of Git unless there is a clear reason to include them.
 - Review retrieved evidence and generated responses for relevance, factuality, and potential bias before use.
 
-## Limitations
 
-- Retrieval quality depends on static-corpus coverage and the availability of relevant web results.
-- Web search and toxicity scoring depend on external services, quotas, policies, and availability.
-- Generated text may contain errors and should not be treated as verified fact without review.
-
-## Citation
-
-If you use this code in research, cite the associated paper here after its publication:
-
-```text
-[Add the final paper citation here.]
-```
-
-## License
-
-Choose and add a licence before making the repository public. Check dataset licences and dependency terms first.
