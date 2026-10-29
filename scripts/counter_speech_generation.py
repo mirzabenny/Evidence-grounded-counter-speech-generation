@@ -35,7 +35,7 @@ OLLAMA_URL = "http://localhost:11434/api/generate"
 
 MODEL = "mistral:7b"
 
-TAVILY_API_KEY = "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"
+TAVILY_API_KEY = "TAVILY_API_KEY"
 
 TAVILY_URL = "https://api.tavily.com/search"
 
